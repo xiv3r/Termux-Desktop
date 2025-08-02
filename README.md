@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/xiv3r/Termux-Desktop/blob/main/files/desktop.png">
+</div>
+
 # Requirements 
 - [Termux APP](https://github.com/termux/termux-app/releases)
 - [Termux X11](https://github.com/termux/termux-x11/releases)
