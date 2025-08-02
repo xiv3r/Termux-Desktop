@@ -1,2 +1,9 @@
-# Termux-Desktop
-Termux xfce4 desktop
+# Requirements 
+- [Termux APP](https://github.com/termux/termux-app/releases)
+- [Termux X11](https://github.com/termux/termux-x11/releases)
+- [Termux API](https://github.com/termux/termux-api/releases)
+
+# Auto Install 
+```
+pkg update && pkg upgrade -y && pkg install -y wget && clear && wget -q -O desktop.sh  && chmod 700 desktop.sh && bash desktop.sh
+```
