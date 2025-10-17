@@ -9,7 +9,7 @@
 
 # Auto Install 
 ```
-pkg update && pkg upgrade -y && pkg install -y wget && clear && wget -q -O desktop.sh https://raw.githubusercontent.com/xiv3r/Termux-Desktop/refs/heads/main/files/desktop.sh && chmod 700 desktop.sh && bash desktop.sh
+apt update && pkg upgrade -y && pkg install -y wget && clear && wget -q -O desktop.sh https://raw.githubusercontent.com/xiv3r/Termux-Desktop/refs/heads/main/files/desktop.sh && chmod 700 desktop.sh && bash desktop.sh
 ```
 
 # Note
